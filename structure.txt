@@ -1,0 +1,25 @@
+Folder PATH listing for volume OS
+Volume serial number is DA54-35F9
+C:.
+|   manage.py
+|   structure.txt
+|   
++---chat
+|   |   unit_conversion.py
+|   |   urls.py
+|   |   views.py
+|   |   __init__.py
+|   |   
+|   +---migrations
+|   +---templates
+|   |   \---chat
+|   \---__pycache__
+|           unit_conversion.cpython-313.pyc
+|           
+\---chatbot_project
+        asgi.py
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+        

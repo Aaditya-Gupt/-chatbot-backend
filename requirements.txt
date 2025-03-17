@@ -1,0 +1,8 @@
+ 
+django==5.1.6
+djangorestframework
+django-cors-headers
+transformers
+pint
+requests
+python-dotenv
